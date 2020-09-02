@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+}
+/* #chicken {
+  background: rgb(213,152,152);
+}
+#beef {
+  background: rgb(193,69,67);
+  color:white;
+}
+#sushi {
+  background: rgb(229,209,152);
+} */
+#header-nav {
+  background: rgb(153,153,153);
+}
+#header-nav button {
+  border-color: black;
+}
+#collapsable-nav{
+  padding: 0;
+}
+#collapsable-nav li {
+  text-align: center;
+  border: 1px solid black;
+}
+#nav-list {
+  background: white;
+  margin:0;
+}
+#nav-list li:hover {
+  background: #E7E7E7;
+}
+#tallsec div {
+  height:1500px;
+  background: rgb(153,153,153);
+  border: 1px solid black;
+}
+.navbar-brand span {
+  color:black;
+  font-weight: bold;
+}
+.icon-bar {
+  background: black !important;
+}
+body {
+  font-family: 'Verdana', 'Times New Roman', sans-serif;
+  font-size: 120%;
+}
+h1 {
+  font-size: 1.75em;
+}
+/* section {
+  position: relative;
+  float: left;
+  border: 1px solid black;
+  padding: 30px 10px 10px 10px;
+  margin: 0.5%;
+  background: rgb(153,153,153);
+}
+p {
+  font-size: 1.25em;
+  width: 100px;
+  border: 1px solid black;
+  font-weight: bold;
+  text-align: center;
+  margin: 0;
+  position: absolute;
+  top: -1px;
+  right: -1px;
+} */
