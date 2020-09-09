@@ -60,9 +60,9 @@
     // in the loop. Otherwise, call helloSpeaker's 'speak' method with the current
     // name in the loop.
     if (firstLetter === 'j') {
-      window.byeSpeaker.speak(names[name]);
+      byeSpeaker.speak(names[name]);
     } else {
-      window.helloSpeaker.speak(names[name]);
+      helloSpeaker.speak(names[name]);
     }
   }
 })();
